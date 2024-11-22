@@ -1,9 +1,9 @@
 {
   "persons": [
     {
-      "id": "1",
       "name": "Arto Hellas",
-      "number": "040-123456"
+      "number": "040-210210",
+      "id": "1"
     },
     {
       "id": "2",
@@ -21,14 +21,9 @@
       "number": "39-23-6423122"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jussi Tarmo",
       "number": "045-2102102"
-    },
-    {
-      "id": 6,
-      "name": "Elvi Tarmo",
-      "number": "050-360360"
     }
   ]
 }
