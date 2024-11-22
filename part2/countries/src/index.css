@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 1rem;
+  color: #555;
+}
+
+p.error {
+  color: red;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+.country-details img {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.country-details p {
+  margin: 5px 0;
+}
+
+.weather-details {
+  margin-top: 20px;
+}
+
+.weather-details img {
+  width: 100px;
+  height: 100px;
+}
+
+.weather-icon {
+  padding: 1rem;
+  margin: 0 1rem;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+}
