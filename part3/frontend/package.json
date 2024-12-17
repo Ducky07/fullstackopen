@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm install && vite build && cp -r dist ../backend/public",
+    "build": "npm install --production && vite build && cp -r dist ../backend/public",
     "lint": "eslint .",
     "preview": "vite preview",
     "server": "json-server db.json -p3001"
