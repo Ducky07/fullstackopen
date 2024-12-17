@@ -6,7 +6,7 @@
   "license": "ISC",
   "scripts": {
     "start": "node backend/index.js",
-    "build": "npm run build:ui --prefix backend",
+    "build": "npm run build:ui --prefix backend && npm run build --prefix backend",
     "deploy": "npm run build && npm run start"
   }
 }
